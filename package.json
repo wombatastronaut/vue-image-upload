@@ -1,0 +1,14 @@
+{
+  "name": "vue-awesome-image-upload",
+  "version": "1.0.0",
+  "description": "An image upload component",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "upload"
+  ],
+  "author": "Wombat Astronaut <ronnielsembrano@gmail.com>",
+  "license": "ISC"
+}
